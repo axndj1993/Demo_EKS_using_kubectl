@@ -18,7 +18,7 @@ spec:
         app: mean-demo
     spec:
       containers:
-        - image: <IMAGE URL>
+        - image: 712665031134.dkr.ecr.us-east-2.amazonaws.com/kube_demo
           imagePullPolicy: Always
           name: mean-demo
           ports:
