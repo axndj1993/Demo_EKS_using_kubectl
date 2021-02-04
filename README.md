@@ -34,3 +34,5 @@ docker-compose up -d
 - Initial concept and development was done by Amos Haviv and sponsered by Linnovate.
 - Inspired by the great work of Madhusudhan Srinivasa.
 # mean_eks_demo
+
+Video link: https://www.youtube.com/watch?v=LlisKI-gN5w
