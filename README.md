@@ -35,4 +35,5 @@ docker-compose up -d
 - Inspired by the great work of Madhusudhan Srinivasa.
 # mean_eks_demo
 
-Video link: https://www.youtube.com/watch?v=LlisKI-gN5w
+Youtube link: https://www.youtube.com/watch?v=LlisKI-gN5w
+Doc link:https://drive.google.com/file/d/1slZgPh8yOvhGC_r4wQpvYC-OSDw1I__0/view
